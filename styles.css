@@ -88,7 +88,7 @@ padding: 0 15px;
 /* when I removed   margin: 0 100px; it centered items on page instead of pushing them to the right */
 
 .about-photo {
-    background-image: url(./resources/peaceful-meditation.jpeg);
+    background-image: url(resources/peaceful-meditation.jpeg);
     background-repeat: no-repeat;
     display: block;
     min-height: 32rem;
@@ -160,7 +160,7 @@ min-height: 28.125rem;
 }
 
 .yoga-photo {
-    background-image: url(./resources/yoga-background.jpeg);
+    background-image: url(resources/yoga-background.jpeg);
     background-repeat: no-repeat;
     display: inline-block;
     height: 28.125rem;
@@ -172,7 +172,7 @@ min-height: 28.125rem;
 }
 
 .massage-photo {
-    background-image: url(./resources/massage-room.jpeg);
+    background-image: url(resources/massage-room.jpeg);
     background-repeat: no-repeat;
     display: inline-block;
     height: 28.125rem;
@@ -184,7 +184,7 @@ min-height: 28.125rem;
 }
 
 .sound-photo {
-    background-image: url(./resources/sound-healing.jpeg);
+    background-image: url(resources/sound-healing.jpeg);
     background-repeat: no-repeat;
     display: inline-block;
     height: 28.125rem;
@@ -196,7 +196,7 @@ min-height: 28.125rem;
 }
 
 .pilates-photo {
-    background-image: url(./resources/pilates.jpeg);
+    background-image: url(resources/pilates.jpeg);
     background-repeat: no-repeat;
     display: inline-block;
     height: 28.125rem;
@@ -208,7 +208,7 @@ min-height: 28.125rem;
 }
 
 .reiki-photo {
-    background-image: url(./resources/reiki.jpg);
+    background-image: url(resources/reiki.jpg);
     background-repeat: no-repeat;
     display: inline-block;
     height: 28.125rem;

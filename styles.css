@@ -49,7 +49,7 @@ header .navbar p {
 /* BANNER */
 .banner {
     display: flex;
-    background-image: url("./resources/cover-image.png");
+    background-image: url(resources/cover-image.png);
     background-size: cover;
     background-position: bottom;
     height: 29rem;
